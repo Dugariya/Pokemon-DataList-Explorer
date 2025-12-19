@@ -22,12 +22,7 @@ export default function Home() {
         </button>
       </Link>
 
-      <img
-        src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png"
-        alt="Pokémon Pikachu"
-        className="mt-12 w-40 h-40 sm:w-56 sm:h-56"
-      />
-          <Image
+      <Image
         src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png"
         alt="Pokémon Pikachu"
         width={224} // Adjusted for sm:w-56
